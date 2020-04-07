@@ -1,0 +1,13 @@
+C:\Users\carlo\Desktop\dotNet projects\projecto-vehiculos\Venta-Vehiculos\bin\Debug\netcoreapp3.1\Venta-Vehiculos.exe
+C:\Users\carlo\Desktop\dotNet projects\projecto-vehiculos\Venta-Vehiculos\bin\Debug\netcoreapp3.1\Venta-Vehiculos.deps.json
+C:\Users\carlo\Desktop\dotNet projects\projecto-vehiculos\Venta-Vehiculos\bin\Debug\netcoreapp3.1\Venta-Vehiculos.runtimeconfig.json
+C:\Users\carlo\Desktop\dotNet projects\projecto-vehiculos\Venta-Vehiculos\bin\Debug\netcoreapp3.1\Venta-Vehiculos.runtimeconfig.dev.json
+C:\Users\carlo\Desktop\dotNet projects\projecto-vehiculos\Venta-Vehiculos\bin\Debug\netcoreapp3.1\Venta-Vehiculos.dll
+C:\Users\carlo\Desktop\dotNet projects\projecto-vehiculos\Venta-Vehiculos\bin\Debug\netcoreapp3.1\Venta-Vehiculos.pdb
+C:\Users\carlo\Desktop\dotNet projects\projecto-vehiculos\Venta-Vehiculos\obj\Debug\netcoreapp3.1\Venta-Vehiculos.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\dotNet projects\projecto-vehiculos\Venta-Vehiculos\obj\Debug\netcoreapp3.1\Venta-Vehiculos.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\dotNet projects\projecto-vehiculos\Venta-Vehiculos\obj\Debug\netcoreapp3.1\Venta-Vehiculos.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\dotNet projects\projecto-vehiculos\Venta-Vehiculos\obj\Debug\netcoreapp3.1\Venta-Vehiculos.AssemblyInfo.cs
+C:\Users\carlo\Desktop\dotNet projects\projecto-vehiculos\Venta-Vehiculos\obj\Debug\netcoreapp3.1\Venta-Vehiculos.dll
+C:\Users\carlo\Desktop\dotNet projects\projecto-vehiculos\Venta-Vehiculos\obj\Debug\netcoreapp3.1\Venta-Vehiculos.pdb
+C:\Users\carlo\Desktop\dotNet projects\projecto-vehiculos\Venta-Vehiculos\obj\Debug\netcoreapp3.1\Venta-Vehiculos.genruntimeconfig.cache
